@@ -26,7 +26,7 @@
     },
     {
       "text": "this a test",
-      "completed": true,
+      "completed": false,
       "date": "2021-11-26",
       "id": 4
     }
