@@ -1,0 +1,15 @@
+<form (ngSubmit)="onSubmit()">
+  <div class="form-control">
+    <label for="text">Task Name</label>
+    <input type="text" id="text" name="text" [(ngModel)]="text" placeholder="Enter task name">
+  </div>
+  <div class="form-control">
+    <label for="date">Task Date</label>
+    <input type="date" id="date" name="date" [(ngModel)]="date" placeholder="Enter task name">
+  </div>
+  <div class="form-control form-control-check">
+    <label for="completed">Task Date</label>
+    <input type="checkbox" name="completed" [(ngModel)]="completed" id="completed" >
+  </div>
+  <button type="submit" class="btn btn-block">Submit</button>
+</form>

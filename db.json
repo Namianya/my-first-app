@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Task 1",
+      "date": "2020, 3, 5",
+      "day": "Friday",
+      "description": "Description 3",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "text": "Task 2",
+      "date": "2020, 3, 5",
+      "day": "Friday",
+      "description": "Description 3",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "text": "Task 3",
+      "date": "2020, 3, 5",
+      "day": "Friday",
+      "description": "Description 3",
+      "completed": true
+    },
+    {
+      "text": "this a test",
+      "completed": true,
+      "date": "2021-11-26",
+      "id": 4
+    }
+  ]
+}
